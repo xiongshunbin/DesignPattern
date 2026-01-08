@@ -141,6 +141,7 @@
     <ClCompile Include="Iterator.h" />
     <ClCompile Include="Mediator.cpp" />
     <ClCompile Include="Memento.cpp" />
+    <ClCompile Include="MeyersSingle.cpp" />
     <ClCompile Include="MyList.cpp" />
     <ClCompile Include="Observer.cpp" />
     <ClCompile Include="Prototype.cpp" />

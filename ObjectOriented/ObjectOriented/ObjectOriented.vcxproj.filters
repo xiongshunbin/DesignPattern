@@ -93,6 +93,9 @@
     <ClCompile Include="Visitor.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="MeyersSingle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MyList.h">
